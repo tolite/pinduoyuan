@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background:#F4F4F4;
+    width:100%;
+    min-width:1300px;
+}
+a{
+    color:#3c3c3c;
+}
+a:hover{
+    text-decoration: underline;
+    color:#eb3349;
+}
+object{
+    display: inline-block;
+}
+em,i{
+    font-style:normal;
+}
